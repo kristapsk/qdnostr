@@ -1,0 +1,2 @@
+nostr @ git+https://github.com/kristapsk/python-nostr.git#egg=nostr
+toml
