@@ -6,7 +6,6 @@ wss://nostr.l00p.org
 wss://nostr.massmux.com
 wss://nostr.mouton.dev
 wss://nostr.mutinywallet.com
-wss://nostr.web3infra.xyz
 wss://nostr-pub.wellorder.net
 wss://relay.stoner.com
 wss://relay.austrich.net
